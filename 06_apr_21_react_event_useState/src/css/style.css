@@ -1,0 +1,24 @@
+.violet{
+    padding: 1rem;
+    background-color: rgba(238, 130, 238, 0.4325);
+    color: violet;
+}
+.hotpink{
+    padding: 1rem;
+    background-color: rgba(255, 105, 180, 0.497);
+    color: hotpink;
+}
+.royalblue{
+    padding: 1rem;
+    background-color: rgba(65, 105, 225, 0.436);
+    color: royalblue;
+}
+
+.no-background{
+    padding: 2rem;
+}
+
+.wrapper{
+    width: fit-content;
+    text-align: center;
+}
